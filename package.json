@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.0",
-    "scriptr-edgard-test-v2": "git+https://github.com/scriptr-edgard/scriptr-edgard-testa.git"
+    "scriptr-edgard-test-v2": "git+https://github.com/scriptr-edgard/scriptr-edgard-test.git"
   }
 }
